@@ -1,0 +1,8 @@
+Task 1: Creat a repository and add the program files 
+Task 2: import the required libraries
+Task 3: Define the calculator() function 
+Task 4: creat the GUI window with the title and creat the buttons
+Task 5: implement the functonality of the buttons to perform specific operations 
+Task 6: implement error handling for invalid inputs or operations 
+Task 7: Display the result on the GUI window 
+Task 8: Define the format_history() and save the calculations history to display the previous operations for future reference
